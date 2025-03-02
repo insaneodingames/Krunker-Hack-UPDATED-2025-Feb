@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        SUY YT CHEATS
-// @namespace   SUY YT UPDATE
+// @name        Quirifys Cheats Alpha v1.53
+// @namespace   Quirifys Tools Rebirth Cheats
 // @match       *://krunker.io/*
 // @grant       none
 // @version     1.53
-// @author      SUY
+// @author      Quirify
 // @description A Krunker hack by Quirify https://discord.gg/qoy
 // @run-at      document-start
 // @noframes
